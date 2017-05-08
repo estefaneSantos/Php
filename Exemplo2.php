@@ -1,16 +1,13 @@
 <html>
-<Head>
-<title>Exemplo 02</title>
-</Head>
-<body bgcolor=#575815>
-<center>
+<head>
+</head>
+<body>
 <?php
-echo "Constantes Declaradas<br>";
-define("CONSTANTE_ALO"," Ol· turma! Assim que se declara uma contante!");
+echo "******** Constante declarada ********<br>";
+define("CONSTANTE_ALO","Ol√° turma! assim declara uma constante");
 echo CONSTANTE_ALO;
-echo "<br><br><br>---Constantes---";
+echo"<br><br><br>******** Constante declarada ********<br>";
 echo phpinfo();
 ?>
-</center>
 </body>
 </html>
