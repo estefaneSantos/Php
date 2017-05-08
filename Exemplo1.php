@@ -1,13 +1,13 @@
 <html>
 <head>
  <meta charset="utf-8">
- <title>Exemplo 01</title>
+ <title>Ster 2B</title>
 </head>
 <body >
 <?php
 $idade=16;
 $nome="Stefany";
-echo "Ol· meu nome È ",$nome,"<br> Minha idade È ",$idade;
+echo "Ol√° meu nome √© ",$nome,"<br> Minha idade √© ",$idade;
 ?>
 </center>
 </body>
